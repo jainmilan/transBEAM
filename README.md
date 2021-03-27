@@ -13,13 +13,13 @@ Installation Instructions
 - Once conda is installed, open Miniconda/Anaconda shell and go to the installation directory. 
 
 ### Build the Code
-- Git clone the repository: `git clone https://stash.pnnl.gov/scm/~jain432/be_modeler.git`
-- Go to the installed module folder: `cd <installation_folder>\be_modeler`
+- Git clone the repository: `git clone https://stash.pnnl.gov/scm/~jain432/transBEAM.git`
+- Go to the installed module folder: `cd <installation_folder>\transBEAM`
 - Create conda environment using `environment.yml`: `conda env create -f environment.yml`
 - Activate the conda environment: `conda activate bem`
 
 ### Test the Code
-- Go to the examples folder: `cd <installation_folder>\be_modeler\examples`
+- Go to the examples folder: `cd <installation_folder>\transBEAM\examples`
 - Run the jupyter notebook: `jupyter notebook`
 
 Published Research Work
