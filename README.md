@@ -25,7 +25,7 @@ Installation Instructions
 Published Research Work
 -----------------------
 
-Jain, Milan, Khushboo Gupta, Arun Sathanur, Vikas Chandan, and Mahantesh M Halappanavar. "Transfer-Learnt Energy Models to Assist Buildings Control with Sparse Field Data." 2021 American Control Conference. IEEE, 2021.
+Milan Jain, Khushboo Gupta, Arun Sathanur, Vikas Chandan, and Mahantesh M Halappanavar. "Transfer-Learnt Models for Predicting Electricity Consumption in Buildings with Limited and Sparse Field Data." American Control Conference (ACC) 2021.
 
 License
 -------
