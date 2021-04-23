@@ -30,4 +30,4 @@ Jain, Milan, Khushboo Gupta, Arun Sathanur, Vikas Chandan, and Mahantesh M Halap
 License
 -------
 
-Released under the 3-Clause BSD license (see License)
+Released under the 3-Clause BSD license (see License.rst)
