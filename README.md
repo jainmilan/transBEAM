@@ -1,5 +1,5 @@
 TransBEAM: Transfer Learning for Building Energy Modeling
-=======================================================
+=========================================================
 
 TransBEAM contains a set of classes and methods to analyze and compare different state-of-the-art data-driven building energy modeling techiques. The module also implements two ways to implement transfer learning: data transfer and model transfer, to make use of both the simulation data and the field data.  The current version is still in development stage with two models being implemented to predict building energy consumption: Random Forest and Feed-Forward Network. In the current version, the library can only handle timeseries data in tabular format. In the future versions, we plan to support much more advanced techniques, including other data formats. 
 

@@ -1,0 +1,10 @@
+name: bem
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - matplotlib
